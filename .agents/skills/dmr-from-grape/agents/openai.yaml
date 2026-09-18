@@ -1,0 +1,4 @@
+interface:
+  display_name: "DMR from Grape"
+  short_description: "Port Ruby/Rails Grape APIs to DMR"
+  default_prompt: "Use $dmr-from-grape to port a Ruby on Rails service with a Grape API to django-modern-rest while preserving the HTTP contract, wire formats, auth, throttling, pagination, and data semantics."

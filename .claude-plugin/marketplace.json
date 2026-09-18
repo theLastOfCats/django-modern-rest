@@ -103,6 +103,16 @@
       "license": "MIT",
       "homepage": "https://github.com/wemake-services/django-modern-rest",
       "repository": "https://github.com/wemake-services/django-modern-rest"
+    },
+    {
+      "name": "dmr-from-grape",
+      "source": "./.agents/skills/dmr-from-grape",
+      "description": "Port Ruby on Rails + Grape services to django-modern-rest",
+      "category": "development",
+      "keywords": ["django", "rest", "api", "ruby", "rails", "grape", "migration"],
+      "license": "MIT",
+      "homepage": "https://github.com/wemake-services/django-modern-rest",
+      "repository": "https://github.com/wemake-services/django-modern-rest"
     }
   ]
 }

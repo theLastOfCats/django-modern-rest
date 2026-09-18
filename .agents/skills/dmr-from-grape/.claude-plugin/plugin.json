@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "dmr-from-grape",
+  "version": "1.0.0",
+  "description": "Port Ruby on Rails + Grape services to django-modern-rest",
+  "author": {
+    "name": "wemake-services",
+    "url": "https://github.com/wemake-services"
+  },
+  "homepage": "https://github.com/wemake-services/django-modern-rest",
+  "repository": "https://github.com/wemake-services/django-modern-rest",
+  "license": "MIT",
+  "keywords": ["django", "rest", "api", "ruby", "rails", "grape", "migration"],
+  "skills": ["./"],
+  "agents": []
+}

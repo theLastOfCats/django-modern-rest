@@ -263,6 +263,7 @@ Here are our amazing people who made this project possible.
   pages/ai/dmr-from-drf.rst
   pages/ai/dmr-from-dj-rest-auth.rst
   pages/ai/dmr-upgrade.rst
+  pages/ai/dmr-from-grape.rst
 
 
 .. toctree::

@@ -113,6 +113,8 @@ install them into your project with a single command:
   :doc:`migrating from Django REST Framework <ai/dmr-from-drf>`
 - ``$dmr-from-dj-rest-auth`` to help with
   :doc:`migrating from dj-rest-auth <ai/dmr-from-dj-rest-auth>`
+- ``$dmr-from-grape`` to help with
+  :doc:`porting a Ruby on Rails + Grape service <ai/dmr-from-grape>`
 
 
 Showcase
